@@ -36,9 +36,9 @@
 
 | 镜像站名称       | 地址                                         | 支持版本         | 免费额度      | 稳定性 | 功能亮点                         |
 |------------------|----------------------------------------------|------------------|--------------|-------|----------------------------------|
-| **一下 AI**       | [yixiaai.com](https://www.yixiaai.com/)       | GPT-4, GPT-4o, GPT-o | 有            | 高     | 稳定运行2年、支持文件阅读、AIPPT                    |
+| **xsimle**       | [xsimplechat.com](https://xsimplechat.com/)       | GPT-4, GPT-4o, GPT-o | 有            | 高     | 稳定运行2年、支持文件阅读、AIPPT                    |
 | **lify ai**       | [chat.lify.vip](https://chat.lify.vip/)        | GPT-4, GPT-4o, GPT-o1 | 有            | 高     | 多模型支持，支持文件阅读、PPT制作              |
-| **lanjing AI**       | [chatgpt.lanjing.ai](https://chatgpt.lanjing.ai/) | GPT-4, GPT-4o    | 有            | 高     | 专注中文优化，界面友好              |
+| **lanjing AI**       | [chat.lanjingai.org](https://chat.lanjingai.org/) | GPT-4, GPT-4o    | 有            | 高     | 专注中文优化，界面友好              |
 | **星河 GPT**     | [cgn.lify.vip](https://cgn.lify.vip)           | GPT-4, GPT-4o    | 有            | 高     | 支持 MJ 绘画、API 调用              |
 ---
 
